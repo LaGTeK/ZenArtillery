@@ -39,7 +39,7 @@ class CfgMods
 				value="";
 				files[] =
 				{
-					"ZenArtillery/scripts/3_game";
+					"ZenArtillery/scripts/3_game"
 				};
 			};
 			class worldScriptModule
@@ -58,7 +58,7 @@ class CfgMods
 					"ZenArtillery/scripts/5_mission"
 				};
 			};
-		}
+		};
 	};
 };
 
@@ -129,7 +129,7 @@ class CfgVehicles
 			};
 		};
 	};
-}
+};
 
 class CfgAmmo
 {
@@ -174,4 +174,4 @@ class CfgAmmo
 			type = "shot";
 		};
 	};
-}
+};
